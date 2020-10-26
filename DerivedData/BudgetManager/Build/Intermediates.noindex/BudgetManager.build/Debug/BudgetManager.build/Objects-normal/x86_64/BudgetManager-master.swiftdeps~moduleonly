@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.3 (swiftlang-1200.0.29.2 clang-1200.0.30.1)"
+options: "2a8ce917250e93f1045360bc529ecfd1"
+build_time: [1603721951, 695122000]
+inputs:
+  "/Volumes/Elements/Utilities/BudgetManager/BudgetManager/AppDelegate.swift": [1603721925, 0]
